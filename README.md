@@ -1,4 +1,4 @@
-# Walmart Sustainability Project
+
 
 A React TypeScript application focused on sustainable shopping and environmental impact tracking.
 
